@@ -24,6 +24,6 @@ Time spent: `<10>`
 ### Walkthrough
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
+![Video Walkthrough](tcpsunc.gif)
+
 ![Video Walkthrough](dropbox.gif)
-
-
